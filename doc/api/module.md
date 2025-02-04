@@ -220,7 +220,7 @@ added: v22.8.0
 ### `module.findPackageJSON(specifier[, base])`
 
 <!-- YAML
-added: REPLACEME
+added: v22.14.0
 -->
 
 > Stability: 1.1 - Active Development
